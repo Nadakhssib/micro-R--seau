@@ -1,4 +1,0 @@
-sstreamlit==1.11.0
-pandas
-plost
-streamlit==1.5.0
